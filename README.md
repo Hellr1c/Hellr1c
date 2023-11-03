@@ -1,4 +1,4 @@
-<h1>WElCOME!</h1>
+<h1>WELCOME!</h1>
 
 - 👋 Hi, I’m @Hellr1c
 - 👀 I’m interested in making games
