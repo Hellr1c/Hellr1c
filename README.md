@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning everything regarding coding
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me just contact me here
+- 📫 How to reach just contact me here
 
 <!---
 Hellr1c/Hellr1c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
