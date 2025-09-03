@@ -1,7 +1,7 @@
 <h1>WELCOME!</h1>
 
 - 👋 Hi, I’m @Hellr1c
-- 👀 I’m interested in making games
+- 👀 I’m interested in making games and making software
 - 🌱 I’m currently learning everything regarding coding
 - 💞️ I’m looking to collaborate on anything
 - 📫 just contact me here
